@@ -17,7 +17,7 @@ In-game chat is bridged with a channel in the official Framework Discord. A live
 1. Respect all users. Meaning no harassment, arguing, trolling, spamming, or hate speech. 
 2. NSFW, offensive content and spam are prohibited.
 3. At this time, please keep all chat messages in English.
-4. Just like official platforms, the discussion of freight forwarding is prohibited. (I really hope this isn't an issue but I want it on the books anyway just in case)
+4. Follow all rules of the official Discord server, as chat is bridged to it.
 5. Do not use client modifications, resource packs, auto-clickers, or other non-vanilla tools that give you an unfair advantage. This rule is very open to interpretation by the moderation team.
 6. Do not attempt to dupe items or otherwise exploit the server. This includes seed cracking. 
 7. No Griefing. Ensure you are using the available anti-griefing measures to protect your builds as the moderation team is unable to reverse changes made by griefers.
