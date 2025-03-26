@@ -6,7 +6,7 @@ More info: https://link.morpheus636.com/fwmc
 # Documentation
 Join on the version 1.21 with hostname mc.framewiki.net
 
-In-game chat is bridged with a channel in the official Framework Discord. A live world map can be found at https://fwmc.morpheus636.com
+In-game chat is bridged with a channel in the official Framework Discord.
 
 ## Contact Methods
 - Feel free to ask any questions in this thread or via [Discord](https://discord.gg/framework). 
