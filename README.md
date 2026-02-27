@@ -10,7 +10,7 @@ In-game chat is bridged with a channel in the official Framework Discord.
 
 ## Contact Methods
 - Feel free to ask any questions in this thread or via [Discord](https://discord.gg/framework). 
-- Player reports should be handled via Discord DMs to @morpheus636 or the ModMail bot (please specify it's related to the Minecraft server).
+- Player reports should be handled via Discord DMs to @morpheus636.
 - Feature requests and bug reports should be submitted via the [GitHub Issue Tracker](https://github.com/framewiki/minecraft-server/issues).
 
 ## Server Rules
